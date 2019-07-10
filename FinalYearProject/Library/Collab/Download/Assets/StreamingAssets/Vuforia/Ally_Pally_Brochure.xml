@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BuildingPage" size="1.000000 0.804913" />
+    <ImageTarget name="Building" size="1.000000 0.804913" />
+    <ImageTarget name="Stats" size="1.000000 0.779337" />
+    <ImageTarget name="BBCCamera" size="1.000000 0.554533" />
+    <ImageTarget name="Museum" size="1.000000 1.439771" />
+    <ImageTarget name="TimelinePg2" size="1.000000 0.752224" />
+    <ImageTarget name="TimelinePg1" size="1.000000 0.740831" />
+    <ImageTarget name="Chapter1" size="1.000000 0.880845" />
+    <ImageTarget name="AllyPallyCartoonMap" size="1.000000 1.272563" />
+    <ImageTarget name="AllyPallyFrontCover" size="1.000000 0.726823" />
+    <ImageTarget name="ally_pally_building" size="1.000000 0.720893" />
+  </Tracking>
+</QCARConfig>
